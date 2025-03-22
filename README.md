@@ -50,6 +50,6 @@
 
 ---
 
-⭐ **Projelerimi beğendiysen bir ⭐ bırakmayı unutma!**  
+⭐ **Projelerimi beğendiysen bir ⭐ bırakmayı unutma.!**  
 
  
