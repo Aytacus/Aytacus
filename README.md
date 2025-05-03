@@ -1,19 +1,19 @@
-<h1 align="center">Merhaba, ben Yücel Aytaç Akgün (Aytacus)! 👋</h1>
+<h1 align="center">Hello, I'm Yücel Aytaç Akgün (Aytacus)! 👋</h1>
 
 <p align="center">
-  🚀 Teknoloji meraklısı | 💡 Yapay Zeka & Görüntü İşleme | 🎯 Sürekli Öğrenen
+  🚀 Tech Enthusiast | 💡 AI & Image Processing | 🎯 Lifelong Learner
 </p>
 
 ---
 
-### 📌 Hakkımda  
-- 🔭 Şu an veri bilimi, görüntü işleme ve yapay zeka alanlarında çalışıyorum.  
-- 🌱 Yeni öğrendiğim şeyler: Çip tasarımı, robotik görüntü işleme ve yapay zeka tabanlı sistemler.  
-- 🎯 Hedeflerim: **Tarihe adımı geçirmek ve teknoloji dünyasında kalıcı bir iz bırakmak.**  
+### 📌 About Me  
+- 🔭 Currently working in the fields of data science, image processing, and artificial intelligence.  
+- 🌱 Recently learning: Chip design, robotic image processing, and AI-based systems.  
+- 🎯 My goals: **Leave a lasting mark in the technology world and make my name known in history.**  
 
 ---
 
-### 🚀 Kullandığım Teknolojiler  
+### 🚀 Technologies I Use  
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
@@ -27,7 +27,7 @@
 
 ---
 
-### 📊 GitHub İstatistikleri  
+### 📊 GitHub Stats  
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=Aytacus&show_icons=true&theme=radical" alt="GitHub Stats">
 </p>
@@ -38,7 +38,7 @@
 
 ---
 
-### 🌎 Bana Ulaşın  
+### 🌎 Reach Me  
 <p align="left">
   <a href="https://linkedin.com/in/yücel-aytaç-akgün-358130227">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
@@ -50,7 +50,8 @@
 
 ---
 
-⭐ **Projelerimi beğendiysen bir ⭐ bırakmayı unutma.!**  
+⭐ **If you liked my projects, don't forget to leave a ⭐!**
 <!-- Refresh GitHub README -->
+
 
  
