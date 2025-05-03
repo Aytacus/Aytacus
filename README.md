@@ -25,16 +25,7 @@
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
 </p>
 
----
 
-### 📊 GitHub Stats  
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aytacus&show_icons=true&theme=radical" alt="GitHub Stats">
-</p>
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aytacus&layout=compact&theme=dark" alt="Top Languages">
-</p>
 
 ---
 
